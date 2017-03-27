@@ -8,7 +8,9 @@ Our translation tool allows users from [New Story](https://www.newstorycharity.o
 
 [Live URL](http://www.pauldkang.com/new_story/#/)
 
-[Live Demo](https://youtu.be/Wk9DzYs0PXg)
+<!-- [Live Demo](https://youtu.be/Wk9DzYs0PXg) -->
+[![Live Demo](http://img.youtube.com/vi/Wk9DzYs0PXg/0.jpg)](https://youtu.be/Wk9DzYs0PXg)
+
 
 #### GitHub Link
 [New Story Translation Tool](https://github.com/annasedlar/Story-Translate)
